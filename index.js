@@ -11,4 +11,6 @@ if (x == 5) {
 
 
 const arr = [1, 24, 5, 5, 415, 11, 1, 15, 5]
-console.log(arr[7])
+console.log(arr[7.9])
+
+
